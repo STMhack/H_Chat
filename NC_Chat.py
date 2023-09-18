@@ -35,7 +35,7 @@ class CHAT:
         
     def JHost():
          print(CHAT.PINK)
-         Host=input('~Enter Target Device ip~  '+Fore.RED)
+         Host=input('~Enter connect wifi ip~  '+Fore.RED)
          Port=int(input(CHAT.PINK+'~Enter Target Device Port~  '+Fore.RED))
          print(Fore.GREEN+'\n<<<START Chating.....>>>\n'+Fore.RED)
          time.sleep(1)
