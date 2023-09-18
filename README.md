@@ -7,5 +7,6 @@ pkg install nmap-ncat
 pkg install figlet
 
 pip install lolcat
+pip install colorama
 
 👩‍💻👩‍💻👩‍💻👩‍💻👩‍💻👩‍💻👩‍💻👩‍💻👩‍💻👩‍💻👩‍💻👩‍💻👩‍💻
